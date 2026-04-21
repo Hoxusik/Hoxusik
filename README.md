@@ -2,7 +2,7 @@
 
 
 
-Computer Science student at **Gdańsk University of Technology** focused on data engineering, Business Intelligence, and system analysis. I enjoy building data-driven solutions - from designing complex data warehouses to creating interactive dashboards and automated ETL pipelines.
+Computer Science student at **Gdańsk University of Technology** focused on data engineering, Business Intelligence, and system analysis. I am intrested in data-driven solutions - from designing complex data warehouses to creating interactive dashboards and automated ETL pipelines.
 
 
 
